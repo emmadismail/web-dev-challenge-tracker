@@ -18,4 +18,4 @@ This is a simple web application to track and manage web development challenges.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-dev-challenge-tracker.git
+   git clone https://github.com/emmadismail/web-dev-challenge-tracker.git
