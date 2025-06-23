@@ -1,0 +1,25 @@
+# Node.js (If you're using npm or yarn)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.bak
+
+# NPM Debug Log
+npm-debug.log*
+
+# Build output
+/dist
+/build
