@@ -12,7 +12,6 @@ This is a simple web application to track and manage web development challenges.
 
 - HTML
 - CSS (Styles)
-- JavaScript (optional)
 
 ## How to Run
 
